@@ -2,12 +2,13 @@ import React from 'react';
 import logo from './logo.svg';
 import { AppContainer, AppHeader, AppLogo, AppLink } from './App.styles';
 import { GlobalStyle } from './globalStyle';
+import SubscriptionTimeGraph from './components/SubscriptionTimeGraph';
 
 const App: React.FC = () => {
   return (
     <AppContainer>
       <GlobalStyle />
-      <AppHeader>
+      {/* <AppHeader>
         <AppLogo src={logo} alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
@@ -19,7 +20,8 @@ const App: React.FC = () => {
         >
           Learn React
         </AppLink>
-      </AppHeader>
+      </AppHeader> */}
+      <SubscriptionTimeGraph />
     </AppContainer>
   );
 }

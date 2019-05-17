@@ -1,0 +1,1663 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/33m88W_WPFz_i_qk_kuppk4QL0c\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "CA",
+    "pageInfo": {
+     "totalResults": 78,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OvsjZL09kQJ43l7NiAVioloyrA0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hHNXwj-A5Nk"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-16T04:00:05.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Trigger Words | soft spoken then whispered 😴",
+       "description": "Hey guys! I hope you enjoy this, my first ever trigger words video. I really enjoyed the vibe of the grouping of words provided, so thank you all! As I mention, I ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hHNXwj-A5Nk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hHNXwj-A5Nk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hHNXwj-A5Nk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/n0GBycxOoLWGsLnch4Ht57PCIuM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fqbmw3g8h60"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-10T04:05:17.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Mesmerizing close-ear SLIME sounds &amp; play (minimal talking)",
+       "description": "Hey guys! Why don't we slow things down a bit with some honky cronchy thonky slime sounds? :D All four slimes used in the video are of different textures, and ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fqbmw3g8h60/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fqbmw3g8h60/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fqbmw3g8h60/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1tCverWMIm4wCD2sqJUQPLHSBUQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "CV3BJXynF5o"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-08T01:26:54.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR for the hopeless, depressed, atheistic &amp; all looking for something to believe in",
+       "description": "Hey guys. Today, I want to share with you all some values I have recently been exposed to, and my thoughts stemming from that exposure. For the majority of my ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/CV3BJXynF5o/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/CV3BJXynF5o/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/CV3BJXynF5o/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MznJksYm7WoBFNU-ovnvwfEF67s\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vR7hUvIbi44"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-25T01:48:30.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "elo&#39;s ASMR Blooper Reel 😂",
+       "description": "Hey guys! At long last I have managed to finish cutting and compiling some bloopers from the past year or so of filming. This footage is not edited at all in terms of ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vR7hUvIbi44/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vR7hUvIbi44/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vR7hUvIbi44/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MC5okV4aw_H4yOFrRdqqP6XZowk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "nF1m6-X8TRE"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-20T01:33:33.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - tapping on the steering wheel * no talking",
+       "description": "Hey guys! I hope you enjoy this cozy, tingly tapping featurette :] ❤ love, elo ** Instagram: @elo_asmr - https://www.instagram.com/elo_asmr/ Twitter: @eloASMR ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/nF1m6-X8TRE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/nF1m6-X8TRE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/nF1m6-X8TRE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/039d1cj0iBmoIF251sP1Ne8lHxE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Zpf_Zs8Pz1E"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-19T02:41:02.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Girly chat &amp; hangout after your transition | lgbTq",
+       "description": "Hello, lovely! Today, we are going to discuss your recent M-F transition and just play around with some ideas for your look as you move forward! We'll talk about ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Zpf_Zs8Pz1E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Zpf_Zs8Pz1E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Zpf_Zs8Pz1E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mg_1f-uPUceImeo0hE6mVrj1ZJ0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "AsXs9gvLwV4"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-08T01:18:09.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Coloring &amp; Chatting about Grandparents/the Elderly",
+       "description": "Hi everyone! In today's film, I've decided to create a 2/3 mate for my previous coloring attempt, all (so far) pages from a workbook-style magazine called ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/AsXs9gvLwV4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/AsXs9gvLwV4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/AsXs9gvLwV4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pE2DhwjdRhwDnzoSDsaLT82L2XU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NMSClU1-EQo"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-01T00:28:18.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Quiet typing | Patient Intake Paperwork",
+       "description": "Hi guys! In this therapy-style intake session, I will be gently typing your information, asking you relevant questions, and listening to you intently. Experience: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NMSClU1-EQo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NMSClU1-EQo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NMSClU1-EQo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lFmCDJSrOPtLVwtVj1TKxYSlbBI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "01HpRtqvI00"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-29T21:12:45.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Facial Hair Trimming w/shaving cream",
+       "description": "Hi - welcome to elo's Salon! Today, we will be cleaning up your facial hair; combing, applying shaving cream, edging razor-fine lines, and trimming up the ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/01HpRtqvI00/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/01HpRtqvI00/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/01HpRtqvI00/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GDzKCkJ6VPMiTGgJH0yBMzIIKyU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "-g2Cqa6UTYg"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-18T21:59:16.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR * Spring gift wrapping session 🌷 tissue paper ▪ soft boxes ▪ ribbons",
+       "description": "Hey guys! Welcome to my gift wrapping shop :] Today, we will be one-on-one, wrapping six small gifts of yours in a \"spring\" themed spread of tissue paper, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/-g2Cqa6UTYg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/-g2Cqa6UTYg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/-g2Cqa6UTYg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/17B6OyN_-mDEYp1__MRkrUzks2I\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8CCDrLqwRTc"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-16T02:57:50.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Check up at Quake Clinic - close up - soft spoken",
+       "description": "Welcome back to Quake Clinic! Today, we will be testing your cognition and motor skills in a follow-up appointment; these tests include face-touching, being ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8CCDrLqwRTc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8CCDrLqwRTc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8CCDrLqwRTc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NgvLgyviDJ72bj_k9Lpe0d1JyjY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "uFDKMHNuDEw"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-16T21:50:42.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Men&#39;s Scalp Massage &amp; Hair-brushing",
+       "description": "Hi guys! I hope you enjoy this video, which is a bit different for us! I will be massaging and scratching the scalp--along with hair-brushing--using my benevolent ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/uFDKMHNuDEw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/uFDKMHNuDEw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/uFDKMHNuDEw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aZPIbKBd0cSqBvGbcbERy53hWrM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "G-ojr7t5Sd0"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-11T03:12:14.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Teaching you French - Beginner Lesson IV",
+       "description": "Bonjour mes amis! In today's video, we will be picking up where we left off with our ASMR French lessons, recapping avoir & être, going through the alphabet ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/G-ojr7t5Sd0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/G-ojr7t5Sd0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/G-ojr7t5Sd0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qbG9n3tXcHNm-NA8JZNhqBUtD_k\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "b15046JV5VU"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-06T23:11:06.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Spine-tingling Car Taps (w/soft spoken car chat)",
+       "description": "Hey guys! :] I am so excited about this video, which features tapping and scratching on the steering wheel of my FR-S with my acrylic nails (one of my favorite ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/b15046JV5VU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/b15046JV5VU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/b15046JV5VU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3N4eHQPCkrAEypCRKS9NDJQaPlA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "YuehQfsPHGo"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-30T22:57:21.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR * Positivity &amp; Appreciating Personal Growth 🌳🌻 (soft spoken)",
+       "description": "Hi everyone! In today's video, I am going to be talking through an idea that has been on my mind lately: appreciating personal growth as a means of being a ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/YuehQfsPHGo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/YuehQfsPHGo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/YuehQfsPHGo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZaDvZR25lCKUAqDF94U8oFHu1wc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Cp-GOerobYs"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-23T02:11:43.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR * Q&amp;A, the 5K celebration! 🎉",
+       "description": "Hey guys! I am so excited to be here today celebrating 5000 subscribers :] Please see the question list below, if you would like to jump around. I hope you enjoy, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Cp-GOerobYs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Cp-GOerobYs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Cp-GOerobYs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EbW6rVJvRx--M834vslTsiF1FA8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NRsoglG3RBc"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-20T23:42:42.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Articulation Exam",
+       "description": "Hi guys! Welcome back to Quake Clinic :] This video was requested by a Patron & inspired by the video he showed me, which is Aelita ASMR's Cranial Nerve ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NRsoglG3RBc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NRsoglG3RBc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NRsoglG3RBc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TeyYPvYTC7LSedO3Ym_Lmj5lfQA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "SZjBGhTGnMs"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-12T23:32:30.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Soft tape Measuring you for a music video 🎬📏",
+       "description": "Hi! Welcome to your measurement session for the upcoming music video you've been cast in! I will be working through a series of measurements for 3 costumes ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/SZjBGhTGnMs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/SZjBGhTGnMs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/SZjBGhTGnMs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/18t6sbSbdqalfEipFXHbeCtMDIg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4z_VjTD3F9w"
+      },
+      "snippet": {
+       "publishedAt": "2018-12-30T23:45:52.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - (whispered) World of Warcraft gaming history",
+       "description": "Hi guys! I hope you are doing well :] I am excited to present another World of Warcraft-related ASMR video--for the first time in a long time! In this video, I will be ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4z_VjTD3F9w/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4z_VjTD3F9w/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4z_VjTD3F9w/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rTWCDUmG7WulbS8yHtxzMk9f6vQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "-i7RTb4ZyMk"
+      },
+      "snippet": {
+       "publishedAt": "2018-12-19T23:26:47.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - (Whispered) Smell Test Appointment",
+       "description": "Welcome back to Quake Clinic! I'm so glad you could join me on this cold, wintery day to participate in an informal smell test panel. Throughout this session, I will ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/-i7RTb4ZyMk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/-i7RTb4ZyMk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/-i7RTb4ZyMk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JTpYwehaGgR-NBB-K5tgnerKnzw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "PYPr5IWxSO4"
+      },
+      "snippet": {
+       "publishedAt": "2018-12-07T22:05:43.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - My first step to living calm (w/hair-brushing)",
+       "description": "Hi guys! Some of you have been asking me to make more videos discussing subjects like the ones in \"Social Identity and Emotions,\" as well as how I have ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/PYPr5IWxSO4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/PYPr5IWxSO4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/PYPr5IWxSO4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/l1l-IJGbvnwidxPAHNRQM3Gp_2A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Fuh6ma80fS0"
+      },
+      "snippet": {
+       "publishedAt": "2018-12-03T03:17:55.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - (Whispered) Ornaments ❄ &amp; Holiday De-stressing!",
+       "description": "Hi everyone - welcome! I am feeling the holiday spirit and wanted to take advantage of some of the decorations before I set them all up. I also decided to ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Fuh6ma80fS0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Fuh6ma80fS0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Fuh6ma80fS0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NZovN7mm8lcCIX6aV9FOtajo7BA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "SZjBDQuBW7A"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-18T03:05:36.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - (Whispered) Doing your make-up | Pampering 👄",
+       "description": "Hi guys! Welcome to an hour of relaxation for you :] I am not a make-up queen by any means, but I love this style of pampering and close attention, so I did my ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/SZjBDQuBW7A/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/SZjBDQuBW7A/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/SZjBDQuBW7A/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9NUxmnx87EImMgHxlCs1Dadcuu4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "XPaMOLu3oPo"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-15T23:18:35.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - (Whispered) Sleep Triggers",
+       "description": "Hi guys! I hope you all are doing well :] In today's video, I am going to be whispering you through some of my favorite non-verbal triggers to hopefully ease you to ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XPaMOLu3oPo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XPaMOLu3oPo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XPaMOLu3oPo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mLGdimZcBlpaufLpNgUpQaKTiFQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "QjP1sbSJ4T0"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-10T02:21:22.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Teaching you French - Beginner Lesson III",
+       "description": "Bonjour, mes amis! I hope you are doing well :] Thank you for joining me for our 3rd beginner lesson in this \"Learn French\" ASMR series! Experience: 0:00-0:50 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/QjP1sbSJ4T0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/QjP1sbSJ4T0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/QjP1sbSJ4T0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/A5szxsRgsWhwYm_uXZfApWf3a80\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "UzJrnXAvHso"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-03T22:12:25.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - (Whispered) Routine Physical | Sensory Check",
+       "description": "Welcome back to Quake Clinic! Today, we will be looking at your lungs, heart, ears, eyes, nose, scalp, skin, and any other issues you may want to present to me ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/UzJrnXAvHso/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/UzJrnXAvHso/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/UzJrnXAvHso/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fWiS65pCv6KhHxsIedOYLBlkZBs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "wRb98hd8kQw"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-30T01:32:43.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Teaching you French - Beginner Lesson II",
+       "description": "Bonjour mes amis! In today's lesson, we will be briefly recapping lesson 1, reviewing the names of French accents, discussing the two most important verbs in ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/wRb98hd8kQw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/wRb98hd8kQw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/wRb98hd8kQw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gp6rIXwBk-FhZ6rj-0sy0isHT_c\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "S7tdRIay-ak"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-28T02:34:48.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Teaching you French - Beginner Lesson I",
+       "description": "Hi guys! In this soft-spoken ASMR video, we will work through our first basic French lesson! We will learn a few greetings, how to ask others about their name ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/S7tdRIay-ak/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/S7tdRIay-ak/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/S7tdRIay-ak/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5ad_alFawuvyj1bpuF6jDbtLutc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "x9cf_hH1D_8"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-26T01:15:25.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - (Whispered) Doctor Appt, Face Rash Treatment",
+       "description": "Welcome back to Quake Clinic! I am so thrilled to present the first use of my new microphone with this impromptu treatment of a latex allergy rash on your chin, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/x9cf_hH1D_8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/x9cf_hH1D_8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/x9cf_hH1D_8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QP6wUhfCbjX2_S_U_3AggA-XakA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "f8fU_RJxZIo"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-23T02:12:48.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Clothing Folding Ramble II",
+       "description": "Hi guys! :] I hope you are doing well! This video is akin to one of my much older videos, where I was packing up my winter clothing for the summer; we are now ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/f8fU_RJxZIo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/f8fU_RJxZIo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/f8fU_RJxZIo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xvcuXDWi1yH90WJVVnlNBuzT4lM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Ay2c0EMlENk"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-20T23:27:26.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Jewelry Store RP 💍 Shopping for Rings &amp; Bracelets",
+       "description": "Welcome back! Glad to see you at the jewelry store again :] I am happy to help you select some gift rings and bracelets today! We will look through an assortment ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Ay2c0EMlENk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Ay2c0EMlENk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Ay2c0EMlENk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GWSMWkz6xjL3qotXx4da7IOFm2w\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TJ8V6y67tIw"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-17T19:05:24.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - 🔮 Energy Cleanse | Crinkly Shirt | No Talking 🌠⚡",
+       "description": "Welcome :] Throughout today's nonverbal energy cleanse, there will be plenty of plucking, scanning and clearing your energy field, deep breathing, and an ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TJ8V6y67tIw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TJ8V6y67tIw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TJ8V6y67tIw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/l8H1Wb4CeaIRQ9VdtTVbNNPUB-4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9WeGxgtDhhA"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-05T21:10:11.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Latex Gloves Full Head &amp; Eye Exam | No talking from 0:11 🙊",
+       "description": "Hi guys! Welcome back to Quake Clinic :] In this 41-minute all-touch, no talk video, I will be thoroughly examining your face, neck, eyes, and scalp! Experience: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9WeGxgtDhhA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9WeGxgtDhhA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9WeGxgtDhhA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ul4oZm-ogaAbEsh6ciBHPI7Fz0k\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "h4qoWnbpCLg"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-28T03:06:54.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Magazine flipping &amp; soft read",
+       "description": "Hey guys! I hope you are well :] In this simple but classic style video, I will be working my way through a magazine with page turning, a little bit of counting, soft ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/h4qoWnbpCLg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/h4qoWnbpCLg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/h4qoWnbpCLg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/RAXJGzQTiY1Qn4t5ZL65sDEShBs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NgzEGh8GWXY"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-26T20:30:46.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Jewelry Store 💍 Unisex Shopping Role Play",
+       "description": "Hi guys! I hope you are doing well :] Welcome to my jewelry store! I'll be happy to assist you in picking out some gift necklaces today. We will look at a spread of ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NgzEGh8GWXY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NgzEGh8GWXY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NgzEGh8GWXY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/STIAGrrwHnHWP5n7K6KLMQL-Azw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fbeSA4iE5Vg"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-23T01:02:38.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Happy Autumn Haul 🐦",
+       "description": "Hi, all! I thought I was going to be a bit ahead of the curve on this one, but it looks like everyone is busting out the fall spirit, and I could not be more excited!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fbeSA4iE5Vg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fbeSA4iE5Vg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fbeSA4iE5Vg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/N7S6TboMQEfbHssSi4cJlPPSEPg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "O43JW-V7Rh8"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-17T02:46:45.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Doctor Appointment, Skin Sensitivity Testing",
+       "description": "Hey guys! Welcome back to Quake Clinic :] Today, I will be testing a series of products on your face and neck to see if they are adequate for sensitive skin types ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/O43JW-V7Rh8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/O43JW-V7Rh8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/O43JW-V7Rh8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bVUAg9R6QNMQpiZBl823gzTGAwk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hB_H6tSn3gQ"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-14T15:54:19.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - New Camera &amp; Thank yous!  📸🤗",
+       "description": "Hey guys! Just a quick stop in to test out my new camera, say hi, and extend some really important \"thank yous.\" I apologize for the nervous hand-wringing ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hB_H6tSn3gQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hB_H6tSn3gQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hB_H6tSn3gQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/u7PMeA5SDlkZAyuijHFHITIjFtw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "W2vSHFwZAgk"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-29T03:25:32.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Social Identity &amp; Emotions",
+       "description": "Hello, all :] Today's video was inspired by a request, and is somewhat of a structured ramble. The first half(ish) of the video follows my own social development ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/W2vSHFwZAgk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/W2vSHFwZAgk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/W2vSHFwZAgk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jyLtZu_TG1lPhcMTH-aHFRbRfc4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "y8aGgPFi7d8"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-24T15:23:56.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Doctor Appointment, Allergist",
+       "description": "Hey guys - Welcome back to Quake Clinic! I hope you all are doing well! :] Today, we are checking out your allergy issues, and working to minimize the need for ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/y8aGgPFi7d8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/y8aGgPFi7d8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/y8aGgPFi7d8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qnOCImTgoy5l18Q6D5ITK09cmzg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mf8Ed5aTmPA"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-17T02:09:30.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Doctor Appt, Back to School Check Up",
+       "description": "Hello, all! I have received a request or two for a \"back to school\"-style, soft spoken doctor appointment role play, which I am happy to present now! :] I hope you ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mf8Ed5aTmPA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mf8Ed5aTmPA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mf8Ed5aTmPA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Br-y7xT4vFVViS2NtNxBPZ6iyD0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "1A-TkpfT0Jo"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-16T02:47:15.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Long Tapping w/some soft speaking",
+       "description": "Hello, everyone! I am very happy to finally put this video out, as it has been requested by a number of people, including a very kind friend I have made through ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/1A-TkpfT0Jo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/1A-TkpfT0Jo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/1A-TkpfT0Jo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4xEv6qT7W-kSAXy0HNyTiwkqIVE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "s8KmNhg3H3I"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-12T23:44:28.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Eyebrow Appointment (unisex RP)",
+       "description": "Hello, all! In today's appointment video, I will be cleaning up your brow area, giving you a nice natural shape :] Experience: 0:00-2:00 Meeting you & discussing ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/s8KmNhg3H3I/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/s8KmNhg3H3I/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/s8KmNhg3H3I/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nt_1mJMqA8HoeZJ84n95-6E7n3M\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fa5TR6YTE3Q"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-11T03:07:37.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Doctor Appointment, Bright Light Eye Test",
+       "description": "Hello, all! Today at Quake, I will be working on my examination skills by administering the bright lights test on you! We will work through a number of light-trigger ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fa5TR6YTE3Q/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fa5TR6YTE3Q/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fa5TR6YTE3Q/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PeJJR4nhkYUngf1-_Xtn7ovqFrQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "CUwioQDaKb8"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-06T20:10:33.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - 90s Keychain Collection",
+       "description": "Hello all! I hope you are doing well :] I received some pretty positive feedback with my Funko Pop Dusting video, and I thought maybe presenting my keychain ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/CUwioQDaKb8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/CUwioQDaKb8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/CUwioQDaKb8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/A4b-sVEyAJsd_0uoMtdyqsF6vqQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "cJLbw43kAfM"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-04T03:49:34.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Doctor Appointment, dermatologist RP",
+       "description": "Welcome back to Quake Clinic! In today's dermatology appointment, we will be checking out your skin and working on a routine to help clear up some of your ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/cJLbw43kAfM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/cJLbw43kAfM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/cJLbw43kAfM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FsNtoFbwmiYxyY7Z-SOCJ4yj0E0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "t0X5aZ8f9Fw"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-21T18:33:11.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Participate in a Taste Test! 🥨 (no eating sounds)",
+       "description": "Hi guys! I hope you are doing well and having a nice, relaxing day or evening :] If not, I hope this video can help! I was inspired to make this video after finding ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/t0X5aZ8f9Fw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/t0X5aZ8f9Fw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/t0X5aZ8f9Fw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cDL0WA-MQzW_Iz1abWjRGXJCZzc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "F6x2QkAnW7E"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-21T00:25:14.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - How to Analyze Poems in a Larger Context, beyond the poem itself (Educational)",
+       "description": "Hey guys! Welcome to our second educational ASMR video! Today, we will discuss the basics of analyzing poems, specifically when you are working to ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/F6x2QkAnW7E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/F6x2QkAnW7E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/F6x2QkAnW7E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/uX1vgfGp12DKTkeOdiGJR1OtEBs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Eyt-tqiWbMY"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-17T02:34:21.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - How to Analyze Poetry (Educational)",
+       "description": "Hey guys! I don't know how well this is going to go over, but I've decided to start an educational line of ASMR videos, alongside regular role plays and ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Eyt-tqiWbMY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Eyt-tqiWbMY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Eyt-tqiWbMY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YausGbwCpBhJYiCiNbEPOU7kjU4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Df3N1_z0rFs"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-12T04:13:30.000Z",
+       "channelId": "UCjhhNqGz-ir83Xh9lxC15Ng",
+       "title": "ASMR - Aromatherapy Shopping Assistance RP",
+       "description": "Hi guys! In this ASMR relaxation role play, I will be functioning as a working customer assistant at the Aromatherapy shop you are perusing. :] To help you out, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Df3N1_z0rFs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Df3N1_z0rFs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Df3N1_z0rFs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "elo ASMR",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   

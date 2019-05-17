@@ -1,0 +1,599 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1M7mY6ZHTkynS5IIJKVYrCQgtdU\"",
+  "pageInfo": {
+   "totalResults": 49,
+   "resultsPerPage": 49
+  },
+  "items": [
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zLBxY7HZiKuCOOTjXPh8Pz_4-hg\"",
+    "id": "fqbmw3g8h60",
+    "statistics": {
+     "viewCount": "445",
+     "likeCount": "29",
+     "dislikeCount": "0",
+     "favoriteCount": "0",
+     "commentCount": "8"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/a-VueSv_NI3wxQu4t_Bipj2pkfo\"",
+    "id": "CV3BJXynF5o",
+    "statistics": {
+     "viewCount": "3192",
+     "likeCount": "188",
+     "dislikeCount": "8",
+     "favoriteCount": "0",
+     "commentCount": "85"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DPS0CZ_jepy7P6YIMywsgX7MV4I\"",
+    "id": "vR7hUvIbi44",
+    "statistics": {
+     "viewCount": "1677",
+     "likeCount": "143",
+     "dislikeCount": "0",
+     "favoriteCount": "0",
+     "commentCount": "85"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/q7U1fXVT4CtxgShupvJ9s-dwS3E\"",
+    "id": "nF1m6-X8TRE",
+    "statistics": {
+     "viewCount": "1599",
+     "likeCount": "71",
+     "dislikeCount": "4",
+     "favoriteCount": "0",
+     "commentCount": "21"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/56i_D_BHV3h-MDMJzOrWOUQtQuE\"",
+    "id": "Zpf_Zs8Pz1E",
+    "statistics": {
+     "viewCount": "1778",
+     "likeCount": "118",
+     "dislikeCount": "29",
+     "favoriteCount": "0",
+     "commentCount": "76"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Y5B06vJMby1gMtgGO5_wG0DZ5CI\"",
+    "id": "AsXs9gvLwV4",
+    "statistics": {
+     "viewCount": "858",
+     "likeCount": "42",
+     "dislikeCount": "1",
+     "favoriteCount": "0",
+     "commentCount": "12"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/J54C6L44H_t0tAqv__OvjVxXJbQ\"",
+    "id": "NMSClU1-EQo",
+    "statistics": {
+     "viewCount": "4663",
+     "likeCount": "137",
+     "dislikeCount": "9",
+     "favoriteCount": "0",
+     "commentCount": "39"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MOQEkpXV07kSqcDNxFM5M5GmD-4\"",
+    "id": "01HpRtqvI00",
+    "statistics": {
+     "viewCount": "4987",
+     "likeCount": "190",
+     "dislikeCount": "1",
+     "favoriteCount": "0",
+     "commentCount": "46"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3nCsBKDnUqMUP2FKZXIYl_-itWI\"",
+    "id": "-g2Cqa6UTYg",
+    "statistics": {
+     "viewCount": "1968",
+     "likeCount": "78",
+     "dislikeCount": "1",
+     "favoriteCount": "0",
+     "commentCount": "43"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TKicCAYmJ7KFMopUuy9JsuRf2tA\"",
+    "id": "8CCDrLqwRTc",
+    "statistics": {
+     "viewCount": "8929",
+     "likeCount": "302",
+     "dislikeCount": "4",
+     "favoriteCount": "0",
+     "commentCount": "57"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/uGqXSrP6m9CcOz3vw_QACIjBjRk\"",
+    "id": "uFDKMHNuDEw",
+    "statistics": {
+     "viewCount": "4235",
+     "likeCount": "91",
+     "dislikeCount": "5",
+     "favoriteCount": "0",
+     "commentCount": "29"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FXRgnFEHuet_SLnMpHHWi2SSdbA\"",
+    "id": "G-ojr7t5Sd0",
+    "statistics": {
+     "viewCount": "3519",
+     "likeCount": "125",
+     "dislikeCount": "2",
+     "favoriteCount": "0",
+     "commentCount": "24"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/C9o5HbYl-8OexeBCBgwmxSWyq2A\"",
+    "id": "b15046JV5VU",
+    "statistics": {
+     "viewCount": "3911",
+     "likeCount": "119",
+     "dislikeCount": "8",
+     "favoriteCount": "0",
+     "commentCount": "63"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_gE44-l6UQ2kzzGY5uC2RwGalbU\"",
+    "id": "YuehQfsPHGo",
+    "statistics": {
+     "viewCount": "2281",
+     "likeCount": "127",
+     "dislikeCount": "1",
+     "favoriteCount": "0",
+     "commentCount": "32"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FAeGvHFnrpMddPEX6ZANc56eFOc\"",
+    "id": "Cp-GOerobYs",
+    "statistics": {
+     "viewCount": "2936",
+     "likeCount": "150",
+     "dislikeCount": "2",
+     "favoriteCount": "0",
+     "commentCount": "102"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CRCB98YE78_BOQEe_Lr-mX2SlCU\"",
+    "id": "NRsoglG3RBc",
+    "statistics": {
+     "viewCount": "8222",
+     "likeCount": "267",
+     "dislikeCount": "4",
+     "favoriteCount": "0",
+     "commentCount": "55"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gDIFs9TDWi7o314GLFjDqUkqmT4\"",
+    "id": "SZjBGhTGnMs",
+    "statistics": {
+     "viewCount": "61412",
+     "likeCount": "1051",
+     "dislikeCount": "40",
+     "favoriteCount": "0",
+     "commentCount": "179"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lHovIyefosHkBnKkigrAFRGRAds\"",
+    "id": "4z_VjTD3F9w",
+    "statistics": {
+     "viewCount": "4241",
+     "likeCount": "139",
+     "dislikeCount": "4",
+     "favoriteCount": "0",
+     "commentCount": "25"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cmMJhTvvqkxUwFvnHsWW9-TiXkg\"",
+    "id": "-i7RTb4ZyMk",
+    "statistics": {
+     "viewCount": "4930",
+     "likeCount": "148",
+     "dislikeCount": "5",
+     "favoriteCount": "0",
+     "commentCount": "24"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iW_W-fVM7cc3D_A00Zt5KEwXiZc\"",
+    "id": "PYPr5IWxSO4",
+    "statistics": {
+     "viewCount": "2777",
+     "likeCount": "112",
+     "dislikeCount": "5",
+     "favoriteCount": "0",
+     "commentCount": "53"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/UMIlndG4PTbKEocKtMmzkvgaPJ4\"",
+    "id": "Fuh6ma80fS0",
+    "statistics": {
+     "viewCount": "1706",
+     "likeCount": "74",
+     "dislikeCount": "3",
+     "favoriteCount": "0",
+     "commentCount": "13"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jjlZWYz5k7y2zhxQFwKZG4gyn5Y\"",
+    "id": "SZjBDQuBW7A",
+    "statistics": {
+     "viewCount": "8533",
+     "likeCount": "186",
+     "dislikeCount": "2",
+     "favoriteCount": "0",
+     "commentCount": "71"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3hxTvTF7sJvkHm4sMDPFetMCR64\"",
+    "id": "XPaMOLu3oPo",
+    "statistics": {
+     "viewCount": "1777",
+     "likeCount": "76",
+     "dislikeCount": "1",
+     "favoriteCount": "0",
+     "commentCount": "29"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/e2bzYGoCA09NoTNFV_5u9hQPuu8\"",
+    "id": "QjP1sbSJ4T0",
+    "statistics": {
+     "viewCount": "3908",
+     "likeCount": "110",
+     "dislikeCount": "1",
+     "favoriteCount": "0",
+     "commentCount": "24"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oSfEsNJV0cmCGQ94s3ZtROkhYmk\"",
+    "id": "UzJrnXAvHso",
+    "statistics": {
+     "viewCount": "15911",
+     "likeCount": "340",
+     "dislikeCount": "9",
+     "favoriteCount": "0",
+     "commentCount": "106"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DYCZg7zj5VqOzJ_ZlEf-jrW3We8\"",
+    "id": "wRb98hd8kQw",
+    "statistics": {
+     "viewCount": "3516",
+     "likeCount": "92",
+     "dislikeCount": "6",
+     "favoriteCount": "0",
+     "commentCount": "44"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ErqwsSwRS3_A0j4WM7CWlZKvoIg\"",
+    "id": "S7tdRIay-ak",
+    "statistics": {
+     "viewCount": "6561",
+     "likeCount": "199",
+     "dislikeCount": "5",
+     "favoriteCount": "0",
+     "commentCount": "73"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VeqasRvO_JuoWQN01uiuttevqlU\"",
+    "id": "x9cf_hH1D_8",
+    "statistics": {
+     "viewCount": "6789",
+     "likeCount": "200",
+     "dislikeCount": "3",
+     "favoriteCount": "0",
+     "commentCount": "75"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7dzORV9RVUvSgYIki2GbnnHBFxk\"",
+    "id": "f8fU_RJxZIo",
+    "statistics": {
+     "viewCount": "1960",
+     "likeCount": "72",
+     "dislikeCount": "1",
+     "favoriteCount": "0",
+     "commentCount": "41"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kkdunLmG1lXXdLVwGd5ais1bHb8\"",
+    "id": "Ay2c0EMlENk",
+    "statistics": {
+     "viewCount": "2086",
+     "likeCount": "72",
+     "dislikeCount": "2",
+     "favoriteCount": "0",
+     "commentCount": "35"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IMjb5cH6qLZ-sU5l6JTD4CRHOrI\"",
+    "id": "TJ8V6y67tIw",
+    "statistics": {
+     "viewCount": "2707",
+     "likeCount": "99",
+     "dislikeCount": "0",
+     "favoriteCount": "0",
+     "commentCount": "51"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jRx0kQ_zoq6n0nojj2FwC47-A_Q\"",
+    "id": "9WeGxgtDhhA",
+    "statistics": {
+     "viewCount": "14303",
+     "likeCount": "293",
+     "dislikeCount": "11",
+     "favoriteCount": "0",
+     "commentCount": "82"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7-LZZbid2EMVQGJZIgy_N4Nm_KM\"",
+    "id": "h4qoWnbpCLg",
+    "statistics": {
+     "viewCount": "3602",
+     "likeCount": "79",
+     "dislikeCount": "2",
+     "favoriteCount": "0",
+     "commentCount": "27"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SMY48q2FwWc-aWYjNt7UM9gxHRM\"",
+    "id": "NgzEGh8GWXY",
+    "statistics": {
+     "viewCount": "5186",
+     "likeCount": "135",
+     "dislikeCount": "2",
+     "favoriteCount": "0",
+     "commentCount": "42"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/eldPNRcQfV4Hkw0XYLDZJnFOKbU\"",
+    "id": "fbeSA4iE5Vg",
+    "statistics": {
+     "viewCount": "2213",
+     "likeCount": "64",
+     "dislikeCount": "3",
+     "favoriteCount": "0",
+     "commentCount": "23"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/euNc-J-GuYhdWDSmHi5HvQmY7-Q\"",
+    "id": "O43JW-V7Rh8",
+    "statistics": {
+     "viewCount": "7289",
+     "likeCount": "192",
+     "dislikeCount": "1",
+     "favoriteCount": "0",
+     "commentCount": "70"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3-_nb2kJxNvl6tlHgYRTSRGaSOQ\"",
+    "id": "hB_H6tSn3gQ",
+    "statistics": {
+     "viewCount": "1373",
+     "likeCount": "110",
+     "dislikeCount": "1",
+     "favoriteCount": "0",
+     "commentCount": "73"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2_iNbnZMnbmfHXgciXqtLXlWQPA\"",
+    "id": "W2vSHFwZAgk",
+    "statistics": {
+     "viewCount": "2440",
+     "likeCount": "108",
+     "dislikeCount": "2",
+     "favoriteCount": "0",
+     "commentCount": "89"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9L8N_5wogeGOBTxjZCklQlavM1k\"",
+    "id": "y8aGgPFi7d8",
+    "statistics": {
+     "viewCount": "4541",
+     "likeCount": "128",
+     "dislikeCount": "2",
+     "favoriteCount": "0",
+     "commentCount": "56"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/B1M0iOqX9mNq9rwHt0W1thXJsFI\"",
+    "id": "mf8Ed5aTmPA",
+    "statistics": {
+     "viewCount": "9809",
+     "likeCount": "205",
+     "dislikeCount": "3",
+     "favoriteCount": "0",
+     "commentCount": "68"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/hl_OCVlgnlSuhBLR2Y6YEy1i87E\"",
+    "id": "1A-TkpfT0Jo",
+    "statistics": {
+     "viewCount": "1312",
+     "likeCount": "42",
+     "dislikeCount": "0",
+     "favoriteCount": "0",
+     "commentCount": "33"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/osLFRicARF5nlcY4GLzE3CGaDKY\"",
+    "id": "s8KmNhg3H3I",
+    "statistics": {
+     "viewCount": "4981",
+     "likeCount": "137",
+     "dislikeCount": "0",
+     "favoriteCount": "0",
+     "commentCount": "57"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BOqCfeuxyzGt1GDKogYvl4WmKpo\"",
+    "id": "fa5TR6YTE3Q",
+    "statistics": {
+     "viewCount": "12453",
+     "likeCount": "295",
+     "dislikeCount": "8",
+     "favoriteCount": "0",
+     "commentCount": "93"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/C4dDubsocal2r65cg9kRFxvNhhU\"",
+    "id": "CUwioQDaKb8",
+    "statistics": {
+     "viewCount": "1256",
+     "likeCount": "49",
+     "dislikeCount": "2",
+     "favoriteCount": "0",
+     "commentCount": "22"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sud49l6a9w0bl0_kJd5V4DLOX5A\"",
+    "id": "cJLbw43kAfM",
+    "statistics": {
+     "viewCount": "5428",
+     "likeCount": "153",
+     "dislikeCount": "4",
+     "favoriteCount": "0",
+     "commentCount": "44"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XdZP1Y1R8aTu_vKcnrFqyo6q200\"",
+    "id": "t0X5aZ8f9Fw",
+    "statistics": {
+     "viewCount": "6097",
+     "likeCount": "144",
+     "dislikeCount": "3",
+     "favoriteCount": "0",
+     "commentCount": "53"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/W3cZp0aHTcX-smBLR_jrhW8Nq5A\"",
+    "id": "F6x2QkAnW7E",
+    "statistics": {
+     "viewCount": "1923",
+     "likeCount": "57",
+     "dislikeCount": "3",
+     "favoriteCount": "0",
+     "commentCount": "28"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ajj22E0PMCmbFDtobCJ1CTmFH2Q\"",
+    "id": "Eyt-tqiWbMY",
+    "statistics": {
+     "viewCount": "1322",
+     "likeCount": "64",
+     "dislikeCount": "3",
+     "favoriteCount": "0",
+     "commentCount": "49"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ptzfqAeFl2En5KV8nBGF5GFTWIU\"",
+    "id": "Df3N1_z0rFs",
+    "statistics": {
+     "viewCount": "2634",
+     "likeCount": "71",
+     "dislikeCount": "0",
+     "favoriteCount": "0",
+     "commentCount": "32"
+    }
+   }
+  ]
+ }
+ 
