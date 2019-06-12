@@ -13,43 +13,24 @@ interface IGraphItemData {
 
 const days = ["Sunday","Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
-const data01 = [
-  { hour: '12a', index: 1, value: 170 },
-  { hour: '1a', index: 1, value: 180 },
-  { hour: '2a', index: 1, value: 150 },
-  { hour: '3a', index: 1, value: 120 },
-  { hour: '4a', index: 1, value: 200 },
-  { hour: '5a', index: 1, value: 300 },
-  { hour: '6a', index: 1, value: 400 },
-  { hour: '7a', index: 1, value: 200 },
-  { hour: '8a', index: 1, value: 100 },
-  { hour: '9a', index: 1, value: 150 },
-  { hour: '10a', index: 1, value: 160 },
-  { hour: '11a', index: 1, value: 170 },
-  { hour: '12a', index: 1, value: 180 },
-  { hour: '1p', index: 1, value: 144 },
-  { hour: '2p', index: 1, value: 166 },
-  { hour: '3p', index: 1, value: 145 },
-  { hour: '4p', index: 1, value: 150 },
-  { hour: '5p', index: 1, value: 170 },
-  { hour: '6p', index: 1, value: 180 },
-  { hour: '7p', index: 1, value: 165 },
-  { hour: '8p', index: 1, value: 130 },
-  { hour: '9p', index: 1, value: 140 },
-  { hour: '10p', index: 1, value: 170 },
-  { hour: '11p', index: 1, value: 180 },
-];
+const currentDate = new Date();
+
+const differenceInDays = (firstDate: Date, secondDate: Date) => {
+  return Math.round((secondDate.getTime() - firstDate.getTime())/(1000*60*60*24));
+}
 
 const parsedEloData = eloSearchListResponse.items.map((item) => {
   const date = new Date(item.snippet.publishedAt);
   const correspondingVideoStatistics = eloVideoListResponse.items.find(video => video.id === item.id.videoId);
   const correspondingChannelStatistics = eloChannelListResponse.items.find(channel => channel.id === item.snippet.channelId);
   if (correspondingVideoStatistics && correspondingChannelStatistics) {
+    const viewCount = parseFloat(correspondingVideoStatistics.statistics.viewCount);
+    const subscriberCount = parseFloat(correspondingChannelStatistics.statistics.subscriberCount);
     return {
       hour: date.getHours() + (date.getMinutes() / 60),
       day: date.getDay(),
       title: item.snippet.title,
-      viewSubRatio: parseFloat(correspondingVideoStatistics.statistics.viewCount) / parseFloat(correspondingChannelStatistics.statistics.subscriberCount)
+      viewSubRatio: (viewCount / subscriberCount) * (1 - (0.005 * differenceInDays(date, currentDate)))
     }
   }
   return null as any as IGraphItemData;
@@ -59,7 +40,7 @@ export default class SubscriptionTimeGraph extends React.Component {
   
 	public render () {
     console.log(parsedEloData);
-    const range = [5, 1000];
+    const range = [10, 1000];
     const xTickFormatter = (value: number) => value >= 0 && value < 7 ? days[value] : '';
 
     return (

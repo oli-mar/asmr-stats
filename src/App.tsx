@@ -5,6 +5,7 @@ import { GlobalStyle } from './globalStyle';
 import SubscriptionTimeGraph from './components/SubscriptionTimeGraph';
 
 const App: React.FC = () => {
+  console.log(process.env);
   return (
     <AppContainer>
       <GlobalStyle />
@@ -22,6 +23,7 @@ const App: React.FC = () => {
         </AppLink>
       </AppHeader> */}
       <SubscriptionTimeGraph />
+      {process.env.REACT_APP_YOUTUBE_API_KEY}
     </AppContainer>
   );
 }
